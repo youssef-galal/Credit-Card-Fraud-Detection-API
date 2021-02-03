@@ -1,2 +1,2 @@
 # Credit-Card-Fraud-Detection-API
-an API to detect the fraud transaction
+An API to detect the fraud transaction by using random forest classifier algorithm
